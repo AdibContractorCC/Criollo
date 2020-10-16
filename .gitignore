@@ -25,3 +25,7 @@ Docs
 Pods
 Podfile.lock
 Examples/*/*.xcworkspace
+
+.build/
+.swiftpm/
+Package.resolved

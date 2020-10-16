@@ -12,6 +12,7 @@
  Convert RFC1123 format dates
  
  */
+#import <Foundation/Foundation.h>
 
 @interface NSDate (RFC1123)
 

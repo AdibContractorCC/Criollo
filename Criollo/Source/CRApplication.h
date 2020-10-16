@@ -12,6 +12,8 @@
  * 
  * @see https://developer.apple.com/reference/appkit/nsapplicationterminatereply
  */
+#import <Foundation/Foundation.h>
+
 typedef NS_ENUM(NSUInteger, CRApplicationTerminateReply) {
     CRTerminateCancel = 0,
     CRTerminateNow    = 1,

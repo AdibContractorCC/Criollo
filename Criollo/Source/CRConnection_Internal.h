@@ -8,8 +8,7 @@
 
 #import "CRConnection.h"
 
-#import <CocoaAsyncSocket/GCDAsyncSocket.h>
-
+@import CocoaAsyncSocket;
 @class CRServer, CRRequest;
 
 NS_ASSUME_NONNULL_BEGIN
